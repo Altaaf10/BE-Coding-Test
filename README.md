@@ -7,11 +7,17 @@ If two or more teams have the same number of points, they should have the same r
 printed in alphabetical order (as in the tie for 3rd place in the sample data).
 
 Sample input:
+
 Lions 3, Snakes 3
+
 Tarantulas 1, FC Awesome 0
+
 Lions 1, FC Awesome 1
+
 Tarantulas 3, Snakes 1
+
 Lions 4, Grouches 0
+
 
 Expected output:
 1. Tarantulas, 6 pts
